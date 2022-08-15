@@ -2,14 +2,13 @@
 <h3 align="center">
   Welcome to Youssef Hussien's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 <!-- To create your Typing SVG: https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- <p align="center">
   <a href="https://github.com/youssef7ussien"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+developer;Self-taught+UI%2FUX+Designer;Always+learning+new+things&font=Fira%20Code&color=FF5555&size=20&center=true&vCenter=true&height=41&width=440"></a>
 </p> -->
 
 <!-- To create your this counter: https://github.com/antonkomarev/github-profile-views-counter -->
-<br> <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=youssef7ussien&style=flat">
+<br> <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=youssef7ussien&style=for-the-badge&color=E94E4E&labelColor=121212">
 
 
 ## 📊 Profile Stats
