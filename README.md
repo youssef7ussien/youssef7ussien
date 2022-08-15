@@ -8,7 +8,7 @@
 </p> -->
 
 <!-- To create your this counter: https://github.com/antonkomarev/github-profile-views-counter -->
-<br> <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=youssef7ussien&style=for-the-badge&color=E94E4E&labelColor=121212">
+<br> <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=youssef7ussien&style=flat-square&color=E94E4E&labelColor=121212">
 
 
 ## 📊 Profile Stats
