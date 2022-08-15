@@ -8,12 +8,13 @@
 </p> -->
 
 <!-- To create your this counter: https://github.com/antonkomarev/github-profile-views-counter -->
-<br> <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=youssef7ussien&style=flat-square&color=E94E4E&labelColor=121212">
+<br> <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=youssef7ussien&style=flat&color=E94E4E&labelColor=121212">
 
 
 ## 📊 Profile Stats
 
 <!-- To create your own card: https://github.com/anuraghazra/github-readme-stats -->
+
 <p align="center">
   <a href="https://github.com/youssef7ussien?tab=repositories"><img alt="youssef7ussien's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=youssef7ussien&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10&bg_color=151515&text_color=F8F8F2&title_color=ff5555&icon_color=FFB86C" height="192px"/></a>
   <a href="https://github.com/youssef7ussien?tab=repositories"><img alt="youssef7ussien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef7ussien&langs_count=8&layout=compact&&theme=dracula&hide_border=true&border_radius=10&bg_color=151515&text_color=F8F8F2&title_color=ff5555&icon_color=FFB86C&hide=Jupyter%20Notebook" height="192px"/></a>
